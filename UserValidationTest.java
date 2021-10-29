@@ -1,7 +1,7 @@
-package lambda;
+package com.exception;
 
 import org.junit.Assert;
-import org.junit.Before;
+import org.junit.*;
 import org.junit.jupiter.api.*;
 
 public class UserValidationTest {
