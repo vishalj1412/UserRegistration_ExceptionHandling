@@ -1,4 +1,4 @@
-package bridgelabz.exception;
+package com.exception;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
