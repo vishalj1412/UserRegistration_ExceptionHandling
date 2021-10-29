@@ -1,4 +1,4 @@
-package lambda;
+package com.exception;
 
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
